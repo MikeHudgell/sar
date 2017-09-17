@@ -1,0 +1,1036 @@
+[I 13:32:22.170 NotebookApp] Serving notebooks from local directory: /home/ubuntu/git
+[I 13:32:22.170 NotebookApp] 0 active kernels 
+[I 13:32:22.170 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 13:32:22.170 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 13:32:50.457 NotebookApp] Notebook learningWithKaggle/sar/experiments_crops_20170815/1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[I 13:32:52.837 NotebookApp] Kernel started: 1762009a-08cd-4fb8-a17c-2f8c18c82243
+[I 13:33:06.580 NotebookApp] Kernel started: eedea8cf-868f-4585-9d9a-8a3cd3a0055e
+[I 13:35:06.717 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 13:37:06.720 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 13:39:06.718 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 13:45:06.724 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 13:47:06.707 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[W 13:52:55.069 NotebookApp] Notebook learningWithKaggle/sar/experiments_crops_20170815/1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[I 13:55:06.803 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[W 13:56:07.962 NotebookApp] Notebook learningWithKaggle/sar/experiments_crops_20170809/1.1-as_kd-best_baseline_and_distance_from_land_features.ipynb is not trusted
+[I 13:56:09.597 NotebookApp] Kernel started: 4952a187-1a56-48c5-bf2f-56a2017ae16c
+[I 13:56:39.630 NotebookApp] Kernel started: 1b193491-8ef6-474f-9d97-b64026f3b02e
+[I 13:57:06.739 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 13:59:06.751 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:01:06.737 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:03:06.745 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:05:06.945 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+2017-08-17 14:05:07.020714: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-17 14:05:07.020741: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-17 14:05:07.020747: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-17 14:05:07.020752: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-17 14:05:07.020756: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 14:06:11.706 NotebookApp] Kernel interrupted: eedea8cf-868f-4585-9d9a-8a3cd3a0055e
+[I 14:07:06.743 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:09:06.740 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[W 14:10:18.690 NotebookApp] Notebook learningWithKaggle/sar/experiments_crops_20170815/1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[I 14:13:06.754 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:15:06.754 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:17:06.823 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:19:06.760 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:20:17.384 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/utils.py
+[I 14:21:06.745 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:23:06.748 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:25:06.749 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:27:06.836 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:35:07.070 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:37:06.860 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:38:38.519 NotebookApp] Kernel interrupted: eedea8cf-868f-4585-9d9a-8a3cd3a0055e
+[I 14:39:06.846 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:41:06.829 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:43:06.831 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:45:06.823 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:47:06.830 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:49:06.832 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:51:06.812 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:53:06.770 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[I 14:55:06.772 NotebookApp] Saving file at /learningWithKaggle/sar/experiments_crops_20170815/2.0-mph_as-best_baseline_with_distance_feature.ipynb
+[C 15:01:18.976 NotebookApp] received signal 15, stopping
+[I 15:01:18.977 NotebookApp] Shutting down kernels
+[I 15:01:19.082 NotebookApp] Kernel shutdown: 1762009a-08cd-4fb8-a17c-2f8c18c82243
+[I 15:01:19.083 NotebookApp] Kernel shutdown: 4952a187-1a56-48c5-bf2f-56a2017ae16c
+[I 15:01:19.083 NotebookApp] Kernel shutdown: eedea8cf-868f-4585-9d9a-8a3cd3a0055e
+[I 15:01:19.083 NotebookApp] Kernel shutdown: 1b193491-8ef6-474f-9d97-b64026f3b02e
+Error executing Jupyter command 'notebool': [Errno 2] No such file or directory
+[I 09:15:39.652 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 09:15:40.409 NotebookApp] Serving notebooks from local directory: /home/ubuntu/git
+[I 09:15:40.409 NotebookApp] 0 active kernels 
+[I 09:15:40.409 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 09:15:40.409 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:15:49.316 NotebookApp] 302 GET / (62.172.108.3) 0.64ms
+[I 09:15:49.341 NotebookApp] 302 GET /tree? (62.172.108.3) 0.73ms
+[I 09:15:53.256 NotebookApp] 302 POST /login?next=%2Ftree%3F (62.172.108.3) 1.27ms
+[W 09:18:13.036 NotebookApp] delete /learningWithKaggle/sar/experiments_crops_20170815/All Training Data
+[I 09:18:45.895 NotebookApp] Kernel started: 9dbb687d-baba-4d6d-8d68-659377ebb26e
+[I 09:24:18.222 NotebookApp] Kernel started: 5a2a1bf2-ab43-4233-a6a0-148ddde16876
+[I 09:25:52.686 NotebookApp] Kernel started: 98c752b7-7ade-424b-af30-38504ed57ea7
+[I 09:26:30.923 NotebookApp] Kernel started: 2aba5ff4-835d-4f7b-82ed-c08a6b09b315
+[I 09:28:54.215 NotebookApp] Creating new directory in /learningWithKaggle/sar
+[I 09:28:59.652 NotebookApp] Kernel started: 34c5b502-6553-4ef3-98c6-97804d9e32cf
+[I 09:30:31.440 NotebookApp] Kernel shutdown: 2aba5ff4-835d-4f7b-82ed-c08a6b09b315
+[I 09:30:40.350 NotebookApp] Kernel shutdown: 9dbb687d-baba-4d6d-8d68-659377ebb26e
+[I 09:30:40.942 NotebookApp] Kernel shutdown: 98c752b7-7ade-424b-af30-38504ed57ea7
+[I 09:30:41.938 NotebookApp] Kernel shutdown: 34c5b502-6553-4ef3-98c6-97804d9e32cf
+[I 09:30:42.750 NotebookApp] Kernel shutdown: 5a2a1bf2-ab43-4233-a6a0-148ddde16876
+[I 09:31:31.725 NotebookApp] Copying learningWithKaggle/sar/experiments_crops_20170815/Large crops and all data/utils_python3.py to /learningWithKaggle/sar/experiments_crops_20170815/Large crops and all data
+[I 09:47:00.132 NotebookApp] Kernel started: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+[I 09:49:00.195 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 09:51:00.189 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 09:53:00.189 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 09:54:21.457 NotebookApp] Kernel started: c7b68b8c-3960-4f72-ab31-cfe753b658bf
+[I 10:06:26.272 NotebookApp] Kernel started: e226f008-12d5-4ba0-840a-dcbff4341c2c
+[I 10:07:52.014 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:09:52.014 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:13:52.014 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 10:15:52.066 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:17:52.106 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:27:53.006 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:29:52.968 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:31:52.970 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:33:52.971 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:35:52.973 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:37:52.973 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:38:02.397 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 10:39:52.974 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:41:52.975 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:43:24.944 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 10:43:52.976 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:44:15.520 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 10:45:35.472 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 10:45:52.976 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:49:51.107 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 10:50:15.227 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 10:51:52.979 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:52:18.133 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 10:53:52.978 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 10:55:52.981 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:03:27.436 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:03:52.983 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:05:18.989 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:05:52.995 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:06:12.502 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:06:53.813 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:07:18.768 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:07:52.931 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:08:55.998 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:09:09.400 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:09:52.931 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:11:43.872 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:11:48.926 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:11:52.929 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:12:13.648 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:12:17.443 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:13:37.097 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:13:52.931 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:16:35.969 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:16:57.957 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:17:52.932 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:19:52.932 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:24:46.968 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:24:53.160 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:25:11.600 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:25:52.929 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:43:52.932 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:45:52.933 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:47:35.452 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[W 11:47:57.196 NotebookApp] Notebook learningWithKaggle/sar/experiments_crops_20170815/2.1-mph_as-best_baseline_with_distance_feature.ipynb is not trusted
+[I 11:47:58.221 NotebookApp] Kernel started: 0eb3f3a6-85de-455a-8b1e-a41ef12d9ec6
+[I 11:49:52.942 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:52:54.664 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 11:53:52.108 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+[I 11:53:52.936 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 11:55:52.943 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 12:59:52.942 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:01:52.942 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:03:18.444 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 13:03:37.848 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+[I 13:03:52.950 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 13:05:52.937 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 13:07:52.937 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:09:25.685 NotebookApp] Kernel started: 214377c7-f558-4950-aacd-e252f4407aa7
+[I 13:19:53.092 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:19:59.136 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 13:20:12.676 NotebookApp] Kernel restarted: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 13:21:52.944 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:23:52.944 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:26:20.395 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/utils_python3.py
+[I 13:26:50.612 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb to /learningWithKaggle/sar/training_crops_20170829
+[I 13:27:29.442 NotebookApp] Kernel started: 400c6775-5d6f-494a-bef1-f98d1047a2f1
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 443.38MiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 13:29:29.499 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data-oil_and_gas.ipynb
+[I 13:31:29.497 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data-oil_and_gas.ipynb
+[I 13:31:52.972 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data.ipynb
+[I 13:36:37.418 NotebookApp] Kernel started: 981508c5-8838-4c32-bc1e-5a1a7ede1a3c
+[I 13:37:05.396 NotebookApp] Kernel started: aefdb2f4-c6b0-4f81-99dc-ded0f405126f
+[W 13:38:38.060 NotebookApp] SSL Error on 78 ('62.172.108.3', 15974): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.105 NotebookApp] SSL Error on 78 ('62.172.108.3', 15975): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.153 NotebookApp] SSL Error on 78 ('62.172.108.3', 15976): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.198 NotebookApp] SSL Error on 78 ('62.172.108.3', 15977): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.243 NotebookApp] SSL Error on 78 ('62.172.108.3', 15978): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.289 NotebookApp] SSL Error on 78 ('62.172.108.3', 15979): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.331 NotebookApp] SSL Error on 78 ('62.172.108.3', 15980): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.375 NotebookApp] SSL Error on 78 ('62.172.108.3', 15981): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.424 NotebookApp] SSL Error on 78 ('62.172.108.3', 15982): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 13:38:38.471 NotebookApp] SSL Error on 78 ('62.172.108.3', 15983): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[I 13:39:26.292 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data_oil_and_gas.ipynb
+[I 13:41:26.292 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data_oil_and_gas.ipynb
+[I 13:43:32.698 NotebookApp] Kernel started: 5358a49c-63bb-426a-b1a0-f46aa9e9b983
+[I 13:44:13.646 NotebookApp] Kernel started: 57227cf6-e79d-45f8-86ff-b6d476dc1435
+[I 13:45:11.889 NotebookApp] Kernel started: 69b8ac7e-1160-4af0-a491-9a4ab88bf1e6
+[I 13:49:26.294 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data_oil_and_gas.ipynb
+[I 13:51:26.292 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data_oil_and_gas.ipynb
+[I 13:53:26.293 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/1.0-mph_kjd_as-Python3_binary_classifier_all_data_oil_and_gas.ipynb
+[I 13:54:48.334 NotebookApp] Kernel shutdown: 751d51a0-a5b2-476e-ab50-d6a9be9e4f69
+[I 13:54:48.760 NotebookApp] Kernel shutdown: c7b68b8c-3960-4f72-ab31-cfe753b658bf
+[W 13:54:48.834 NotebookApp] Session not found: session_id='078b6de2-f1df-43e0-bf19-d4063d7d1d56'
+[W 13:54:48.835 NotebookApp] 404 DELETE /api/sessions/078b6de2-f1df-43e0-bf19-d4063d7d1d56 (62.172.108.3) 0.80ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:49.714 NotebookApp] Kernel shutdown: 0eb3f3a6-85de-455a-8b1e-a41ef12d9ec6
+[W 13:54:49.716 NotebookApp] Session not found: session_id='6582eba9-0c04-4c5a-b461-c4ca1250ebdd'
+[W 13:54:49.716 NotebookApp] 404 DELETE /api/sessions/6582eba9-0c04-4c5a-b461-c4ca1250ebdd (62.172.108.3) 0.88ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:49.752 NotebookApp] Session not found: session_id='6582eba9-0c04-4c5a-b461-c4ca1250ebdd'
+[W 13:54:49.753 NotebookApp] 404 DELETE /api/sessions/6582eba9-0c04-4c5a-b461-c4ca1250ebdd (62.172.108.3) 0.77ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:50.330 NotebookApp] Kernel shutdown: 214377c7-f558-4950-aacd-e252f4407aa7
+[W 13:54:50.331 NotebookApp] Session not found: session_id='934f51b9-299b-415d-91a7-fd7807a2effb'
+[W 13:54:50.331 NotebookApp] 404 DELETE /api/sessions/934f51b9-299b-415d-91a7-fd7807a2effb (62.172.108.3) 0.85ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:50.355 NotebookApp] Session not found: session_id='934f51b9-299b-415d-91a7-fd7807a2effb'
+[W 13:54:50.356 NotebookApp] 404 DELETE /api/sessions/934f51b9-299b-415d-91a7-fd7807a2effb (62.172.108.3) 0.80ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:51.539 NotebookApp] Kernel shutdown: 400c6775-5d6f-494a-bef1-f98d1047a2f1
+[W 13:54:51.542 NotebookApp] Session not found: session_id='3ae65a50-d136-4d4d-992a-90c946c08dbf'
+[W 13:54:51.543 NotebookApp] 404 DELETE /api/sessions/3ae65a50-d136-4d4d-992a-90c946c08dbf (62.172.108.3) 0.89ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:51.543 NotebookApp] Session not found: session_id='3ae65a50-d136-4d4d-992a-90c946c08dbf'
+[W 13:54:51.544 NotebookApp] 404 DELETE /api/sessions/3ae65a50-d136-4d4d-992a-90c946c08dbf (62.172.108.3) 0.74ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:51.544 NotebookApp] Session not found: session_id='3ae65a50-d136-4d4d-992a-90c946c08dbf'
+[W 13:54:51.545 NotebookApp] 404 DELETE /api/sessions/3ae65a50-d136-4d4d-992a-90c946c08dbf (62.172.108.3) 0.72ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:51.563 NotebookApp] Session not found: session_id='3ae65a50-d136-4d4d-992a-90c946c08dbf'
+[W 13:54:51.564 NotebookApp] 404 DELETE /api/sessions/3ae65a50-d136-4d4d-992a-90c946c08dbf (62.172.108.3) 0.74ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:51.566 NotebookApp] Session not found: session_id='3ae65a50-d136-4d4d-992a-90c946c08dbf'
+[W 13:54:51.566 NotebookApp] 404 DELETE /api/sessions/3ae65a50-d136-4d4d-992a-90c946c08dbf (62.172.108.3) 0.73ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[W 13:54:51.592 NotebookApp] Session not found: session_id='3ae65a50-d136-4d4d-992a-90c946c08dbf'
+[W 13:54:51.592 NotebookApp] 404 DELETE /api/sessions/3ae65a50-d136-4d4d-992a-90c946c08dbf (62.172.108.3) 0.77ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:52.178 NotebookApp] Kernel shutdown: 981508c5-8838-4c32-bc1e-5a1a7ede1a3c
+[I 13:54:52.962 NotebookApp] Kernel shutdown: 5358a49c-63bb-426a-b1a0-f46aa9e9b983
+[W 13:54:52.963 NotebookApp] Session not found: session_id='e569147d-fb4b-415c-b7c7-46e4297587d3'
+[W 13:54:52.964 NotebookApp] 404 DELETE /api/sessions/e569147d-fb4b-415c-b7c7-46e4297587d3 (62.172.108.3) 0.83ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:53.618 NotebookApp] Kernel shutdown: 57227cf6-e79d-45f8-86ff-b6d476dc1435
+[W 13:54:53.619 NotebookApp] Session not found: session_id='08be7521-e648-4a1f-b39d-ed8e797eacf4'
+[W 13:54:53.620 NotebookApp] 404 DELETE /api/sessions/08be7521-e648-4a1f-b39d-ed8e797eacf4 (62.172.108.3) 0.83ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:54.250 NotebookApp] Kernel shutdown: 69b8ac7e-1160-4af0-a491-9a4ab88bf1e6
+[W 13:54:54.252 NotebookApp] Session not found: session_id='1bb79ef3-30e2-442d-a50d-6d671d1a7bc7'
+[W 13:54:54.252 NotebookApp] 404 DELETE /api/sessions/1bb79ef3-30e2-442d-a50d-6d671d1a7bc7 (62.172.108.3) 0.85ms referer=https://52.214.196.130:8888/tree/learningWithKaggle/sar/experiments_crops_20170815
+[I 13:54:55.122 NotebookApp] Kernel shutdown: aefdb2f4-c6b0-4f81-99dc-ded0f405126f
+[I 13:54:55.730 NotebookApp] Kernel shutdown: e226f008-12d5-4ba0-840a-dcbff4341c2c
+[C 13:58:04.780 NotebookApp] received signal 15, stopping
+[I 13:58:04.781 NotebookApp] Shutting down kernels
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 10:06:22.572 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 10:06:22.628 NotebookApp] Serving notebooks from local directory: /home/ubuntu/git
+[I 10:06:22.628 NotebookApp] 0 active kernels 
+[I 10:06:22.628 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 10:06:22.628 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:07:06.338 NotebookApp] 302 GET / (62.172.108.3) 0.59ms
+[I 10:07:06.362 NotebookApp] 302 GET /tree? (62.172.108.3) 0.69ms
+[I 10:07:09.635 NotebookApp] 302 POST /login?next=%2Ftree%3F (62.172.108.3) 1.19ms
+[I 10:07:45.802 NotebookApp] Creating new directory in /learningWithKaggle/sar/training_crops_20170829
+[I 10:08:26.841 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/2.0-as-Python3_FCN_all_data.ipynb to /learningWithKaggle/sar/training_crops_20170829
+[I 10:08:26.973 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/utils_python3.py to /learningWithKaggle/sar/training_crops_20170829
+[I 10:09:54.082 NotebookApp] Kernel started: 56f36e5b-9fd1-42a9-a502-d474bf52d551
+[I 10:11:54.127 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 10:13:54.170 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:17:17.911 NotebookApp] Kernel started: 0bd6fe79-2979-4865-94a1-968b28c2236f
+[I 10:19:15.450 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/utils_python3.py
+[I 10:19:54.128 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:20:03.288 NotebookApp] Kernel restarted: 56f36e5b-9fd1-42a9-a502-d474bf52d551
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 10:21:54.129 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:22:27.579 NotebookApp] Kernel started: b9e13167-120d-462c-b39d-cea81ae21bea
+[I 10:23:54.150 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:25:54.149 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:26:35.685 NotebookApp] Kernel started: 34e16707-1640-4055-b9eb-9c7b24bc6515
+[I 10:27:54.133 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 10:29:45.287 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 56f36e5b-9fd1-42a9-a502-d474bf52d551 restarted
+[I 10:29:54.130 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:33:32.399 NotebookApp] Kernel shutdown: 56f36e5b-9fd1-42a9-a502-d474bf52d551
+[I 10:33:33.030 NotebookApp] Kernel shutdown: 0bd6fe79-2979-4865-94a1-968b28c2236f
+[I 10:33:33.742 NotebookApp] Kernel shutdown: b9e13167-120d-462c-b39d-cea81ae21bea
+[I 10:33:34.671 NotebookApp] Kernel shutdown: 34e16707-1640-4055-b9eb-9c7b24bc6515
+[I 10:34:18.865 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:34:56.271 NotebookApp] Kernel started: b1d28c9f-4735-4f74-b705-276817f1d704
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 10:36:56.353 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:38:56.350 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:40:56.329 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:42:56.348 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:44:56.347 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:46:55.960 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:46:56.718 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb
+[I 10:47:05.153 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[W 10:47:05.170 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[W 10:47:05.185 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50-Copy1.ipynb
+[I 10:47:10.530 NotebookApp] Kernel shutdown: b1d28c9f-4735-4f74-b705-276817f1d704
+[W 10:47:36.366 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb is not trusted
+[I 10:47:36.783 NotebookApp] Kernel started: cba093a3-f962-404c-a99a-ed8434492c0e
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 10:49:36.870 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[W 10:49:36.871 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 10:51:36.911 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[W 10:51:36.912 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 10:53:36.892 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 10:55:36.889 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 10:57:36.888 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 10:59:36.890 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 10:59:49.512 NotebookApp] Kernel started: 4eae9c12-7628-49b7-815a-e7f5972aa4d0
+[I 11:01:36.901 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:02:29.920 NotebookApp] Kernel shutdown: 4eae9c12-7628-49b7-815a-e7f5972aa4d0
+[I 11:03:36.882 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:05:20.416 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[W 11:05:20.434 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[W 11:05:20.450 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50-Copy1.ipynb
+[W 11:05:21.816 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50-Copy1.ipynb is not trusted
+[I 11:05:22.314 NotebookApp] Kernel started: a5957b20-9961-49da-9974-ec32f61c12ab
+[I 11:05:36.897 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:07:36.885 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:11:36.881 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:13:36.887 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:16:30.144 NotebookApp] Kernel shutdown: cba093a3-f962-404c-a99a-ed8434492c0e
+[I 11:16:41.650 NotebookApp] Kernel started: c04d2056-2551-4164-bbe4-ea44801a3e35
+[I 11:16:52.353 NotebookApp] Kernel shutdown: c04d2056-2551-4164-bbe4-ea44801a3e35
+[I 11:17:14.072 NotebookApp] Kernel restarted: a5957b20-9961-49da-9974-ec32f61c12ab
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 11:17:22.475 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[W 11:17:22.476 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 11:19:22.422 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[W 11:19:22.422 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:19:38.296 NotebookApp] Kernel started: 9c4701c6-ba07-4a9f-bd8a-a5494091cb42
+[I 11:19:57.562 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:20:08.713 NotebookApp] Kernel shutdown: 9c4701c6-ba07-4a9f-bd8a-a5494091cb42
+[W 11:20:25.730 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb is not trusted
+[W 11:20:29.318 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[I 11:20:29.808 NotebookApp] Kernel started: 44af52c1-0762-400b-a70f-636469ebf815
+[I 11:21:05.194 NotebookApp] Kernel shutdown: 44af52c1-0762-400b-a70f-636469ebf815
+[I 11:21:22.418 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:23:19.431 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:23:22.419 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:25:22.413 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:27:22.426 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:29:22.417 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb
+[I 11:29:49.482 NotebookApp] Kernel shutdown: a5957b20-9961-49da-9974-ec32f61c12ab
+[I 11:29:50.725 NotebookApp] Kernel started: 782acfb1-6456-4192-aa59-246b0b5a05d4
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 11:31:50.842 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:33:50.839 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:35:50.842 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:37:50.839 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:39:50.826 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:41:50.823 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:43:50.824 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:45:50.823 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:47:50.825 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:49:50.828 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:51:50.829 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:53:50.827 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:55:50.824 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:57:50.821 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 11:59:50.822 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:01:50.824 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:03:50.821 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:05:50.823 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:07:50.823 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:09:50.823 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:11:50.825 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:13:50.824 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:15:50.826 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:17:50.842 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:19:50.825 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:21:50.825 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:37:50.832 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:38:23.685 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb
+[I 12:39:00.041 NotebookApp] Kernel started: 59f1815d-404f-4440-bd34-ba296a38c9cb
+[I 12:40:55.584 NotebookApp] Kernel started: a87a9024-d6fa-4aab-91b2-f4ea71c878bb
+[I 12:41:41.224 NotebookApp] Kernel shutdown: a87a9024-d6fa-4aab-91b2-f4ea71c878bb
+[I 12:48:52.439 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[I 12:49:09.490 NotebookApp] Kernel started: 62b0e9a2-28c9-43ea-95ec-80f86b057dbb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 12:51:09.592 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 12:51:56.756 NotebookApp] Kernel started: 0040df2d-9abe-4be8-a2d8-13b7431742e0
+[I 12:53:09.592 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 12:55:09.592 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 12:57:09.585 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:03:09.611 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:05:09.574 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 455.38MiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (256): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (512): 	Total Chunks: 1, Chunks in use: 0 512B allocated for chunks. 4B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (1024): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (2048): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (4096): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (8192): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (16384): 	Total Chunks: 1, Chunks in use: 0 26.2KiB allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (32768): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (65536): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (131072): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (262144): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (524288): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (1048576): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (2097152): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (4194304): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (8388608): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (16777216): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (33554432): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (67108864): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (134217728): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:643] Bin (268435456): 	Total Chunks: 0, Chunks in use: 0 0B allocated for chunks. 0B client-requested for chunks. 0B in use in bin. 0B client-requested in use in bin.
+I tensorflow/core/common_runtime/bfc_allocator.cc:660] Bin for 225.00MiB was 128.00MiB, Chunk State: 
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0000 of size 1280
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0b00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0c00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0d00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0e00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e0f00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1400 of size 1280
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1a00 of size 1280
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e1f00 of size 6912
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e3a00 of size 6912
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e5500 of size 6912
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7400 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7b00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7c00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7d00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7e00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e7f00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8400 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8b00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8c00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8d00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8e00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e8f00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9200 of size 1280
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9b00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9c00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9d00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9e00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050e9f00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea400 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ea600 of size 6912
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec300 of size 512
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ec800 of size 1280
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ecd00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050ed000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050f3a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12050f3b00 of size 73728
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205105b00 of size 73728
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205117b00 of size 221184
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120514db00 of size 73728
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120515fb00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120515fc00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120515fd00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120515fe00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120515ff00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160400 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160b00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160c00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205160d00 of size 1280
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161400 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161a00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161b00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161c00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161d00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161e00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205161f00 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162000 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162100 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162200 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162300 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162400 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162500 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162600 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162700 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162800 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162900 of size 256
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205162a00 of size 222464
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205198f00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12051bcf00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12051e0f00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205204f00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205228f00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120524cf00 of size 73728
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x120525ef00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x1205282f00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12052a6f00 of size 147456
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12052caf00 of size 7372800
+I tensorflow/core/common_runtime/bfc_allocator.cc:678] Chunk at 0x12059d2f00 of size 258396416
+I tensorflow/core/common_runtime/bfc_allocator.cc:687] Free at 0x12050ece00 of size 512
+I tensorflow/core/common_runtime/bfc_allocator.cc:687] Free at 0x12050ed100 of size 26880
+I tensorflow/core/common_runtime/bfc_allocator.cc:693]      Summary of in-use Chunks by size: 
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 115 Chunks of size 256 totalling 28.8KiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 1 Chunks of size 512 totalling 512B
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 6 Chunks of size 1280 totalling 7.5KiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 4 Chunks of size 6912 totalling 27.0KiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 4 Chunks of size 73728 totalling 288.0KiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 8 Chunks of size 147456 totalling 1.12MiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 1 Chunks of size 221184 totalling 216.0KiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 1 Chunks of size 222464 totalling 217.2KiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 1 Chunks of size 7372800 totalling 7.03MiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:696] 1 Chunks of size 258396416 totalling 246.43MiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:700] Sum Total of in-use chunks: 255.35MiB
+I tensorflow/core/common_runtime/bfc_allocator.cc:702] Stats: 
+Limit:                   267780096
+InUse:                   267752704
+MaxInUse:                267753216
+NumAllocs:                     166
+MaxAllocSize:            258396416
+
+W tensorflow/core/common_runtime/bfc_allocator.cc:274] ********************************************************************************************xxxxxxxx
+W tensorflow/core/common_runtime/bfc_allocator.cc:275] Ran out of memory trying to allocate 225.00MiB.  See logs for memory state.
+W tensorflow/core/framework/op_kernel.cc:993] Resource exhausted: OOM when allocating tensor with shape[32,32,240,240]
+[I 13:06:48.824 NotebookApp] 302 GET / (62.172.108.3) 0.36ms
+[I 13:07:03.062 NotebookApp] Kernel shutdown: 782acfb1-6456-4192-aa59-246b0b5a05d4
+[W 13:07:03.063 NotebookApp] Session not found: session_id='4887f4c6-5422-4600-9a00-70f537bc54fb'
+[W 13:07:03.064 NotebookApp] 404 DELETE /api/sessions/4887f4c6-5422-4600-9a00-70f537bc54fb (62.172.108.3) 0.93ms referer=https://34.248.196.230:8888/tree?
+[I 13:07:03.984 NotebookApp] Kernel shutdown: 59f1815d-404f-4440-bd34-ba296a38c9cb
+[W 13:07:03.986 NotebookApp] Session not found: session_id='b10ce1c3-58b7-4587-b017-02f61c8d4a81'
+[W 13:07:03.986 NotebookApp] 404 DELETE /api/sessions/b10ce1c3-58b7-4587-b017-02f61c8d4a81 (62.172.108.3) 0.94ms referer=https://34.248.196.230:8888/tree?
+[W 13:07:03.987 NotebookApp] Session not found: session_id='b10ce1c3-58b7-4587-b017-02f61c8d4a81'
+[W 13:07:03.987 NotebookApp] 404 DELETE /api/sessions/b10ce1c3-58b7-4587-b017-02f61c8d4a81 (62.172.108.3) 0.76ms referer=https://34.248.196.230:8888/tree?
+[I 13:07:05.293 NotebookApp] Kernel shutdown: 62b0e9a2-28c9-43ea-95ec-80f86b057dbb
+[W 13:07:05.295 NotebookApp] Session not found: session_id='768bbbc7-8655-43b4-86d9-e63e20614b58'
+[W 13:07:05.295 NotebookApp] 404 DELETE /api/sessions/768bbbc7-8655-43b4-86d9-e63e20614b58 (62.172.108.3) 0.94ms referer=https://34.248.196.230:8888/tree?
+[I 13:07:06.343 NotebookApp] Kernel shutdown: 0040df2d-9abe-4be8-a2d8-13b7431742e0
+[I 13:07:19.941 NotebookApp] Kernel started: 28688804-a5ef-4a52-9201-53aad69a91ca
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 13:09:20.030 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:11:20.026 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:12:34.053 NotebookApp] Kernel started: 5646fbd1-0167-4439-a215-2f24e65f2bf6
+[I 13:13:20.104 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:14:41.274 NotebookApp] Kernel started: 284958ba-e59d-4ad1-93a4-3f21be9a6e2f
+[I 13:14:43.920 NotebookApp] Kernel started: 9dad08b7-442d-47ae-aa6d-b4d5ff32150a
+[I 13:15:20.117 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[W 13:16:25.640 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[I 13:16:26.115 NotebookApp] Kernel started: 6f3c802d-f57d-4e37-b935-3565095ff2d7
+[I 13:16:48.928 NotebookApp] Kernel started: 82ec0570-c89d-429d-9249-cd94a032bca5
+[I 13:17:20.121 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:19:20.093 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:20:12.770 NotebookApp] Kernel started: aab4ace4-b199-44b9-a55f-d51394d2de32
+[I 13:21:20.110 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:23:20.485 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:25:20.520 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:27:20.068 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:28:41.479 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[I 13:28:43.973 NotebookApp] Kernel started: 053baf52-8496-4e21-a4b7-a5036a1d631a
+[I 13:29:20.092 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:30:28.072 NotebookApp] Kernel shutdown: 053baf52-8496-4e21-a4b7-a5036a1d631a
+[W 13:30:28.073 NotebookApp] delete /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-Copy1.ipynb
+[I 13:31:20.072 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[W 13:31:50.824 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[I 13:33:20.125 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:35:20.101 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:37:20.078 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:39:16.773 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[W 13:39:16.790 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[W 13:39:16.805 NotebookApp] Saving untrusted notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50-Copy1.ipynb
+[W 13:39:18.856 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50-Copy1.ipynb is not trusted
+[I 13:39:19.378 NotebookApp] Kernel started: 67398c29-7273-4122-b7cc-48bbfb719e79
+[I 13:39:20.106 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:41:19.426 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 13:41:26.467 NotebookApp] Kernel shutdown: 82ec0570-c89d-429d-9249-cd94a032bca5
+[I 13:41:26.870 NotebookApp] Kernel shutdown: 5646fbd1-0167-4439-a215-2f24e65f2bf6
+[I 13:43:20.097 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_240x240-png.ipynb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 13:45:20.093 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_240x240-png.ipynb
+[I 13:46:15.808 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 455.38MiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 13:48:15.802 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 13:48:24.940 NotebookApp] Kernel shutdown: 28688804-a5ef-4a52-9201-53aad69a91ca
+[W 13:48:27.941 NotebookApp] Notebook learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_50x50.ipynb is not trusted
+[I 13:48:48.634 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.0-as_mph-Python3_FCN_140x140.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[I 13:48:50.553 NotebookApp] Kernel started: b7f55a84-3244-43b5-9855-bc36b9af6069
+[I 13:50:15.800 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 13:50:35.609 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 13:50:36.413 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 13:50:47.960 NotebookApp] Kernel started: 54adfd58-8a5f-446a-9a1b-b3fb13e66f1a
+[I 13:51:18.818 NotebookApp] Kernel shutdown: b7f55a84-3244-43b5-9855-bc36b9af6069
+[I 13:51:19.221 NotebookApp] Kernel shutdown: 54adfd58-8a5f-446a-9a1b-b3fb13e66f1a
+[I 13:53:56.125 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/2.0-as-Python3_FCN_all_data.ipynb
+[I 13:54:17.759 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 13:56:17.757 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 13:58:17.765 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:00:17.763 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:02:17.760 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:04:17.765 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:06:17.765 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:08:17.809 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:10:17.761 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:12:17.764 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:16:53.448 NotebookApp] Kernel started: 5409a603-5613-4a45-a73f-7e3fecdc5088
+[I 14:17:11.977 NotebookApp] Kernel started: b89bb05e-5b3b-4c62-b181-c3ca38afa130
+[I 14:17:38.980 NotebookApp] Kernel shutdown: b89bb05e-5b3b-4c62-b181-c3ca38afa130
+[I 14:17:39.383 NotebookApp] Kernel shutdown: 5409a603-5613-4a45-a73f-7e3fecdc5088
+[I 14:19:40.929 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb
+[I 14:19:50.285 NotebookApp] Kernel shutdown: 6f3c802d-f57d-4e37-b935-3565095ff2d7
+[I 14:19:52.392 NotebookApp] Kernel shutdown: 67398c29-7273-4122-b7cc-48bbfb719e79
+[I 14:19:56.531 NotebookApp] Kernel started: 24b2d0ac-0852-4bbb-abde-d9758c23f70e
+[I 14:20:03.396 NotebookApp] Kernel started: 4372d230-d7bd-4f36-b51b-2237fd9dafb8
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 14:21:30.848 NotebookApp] Kernel started: 404b6d43-f7b6-4b8f-8965-7fe324c46c87
+[I 14:21:56.587 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 14:23:56.628 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:25:56.624 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:27:56.627 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:29:56.624 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:31:56.617 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:33:01.756 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:33:05.195 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_140x140-png.ipynb
+[I 14:33:28.790 NotebookApp] Kernel shutdown: 4372d230-d7bd-4f36-b51b-2237fd9dafb8
+[I 14:33:29.995 NotebookApp] Kernel shutdown: 24b2d0ac-0852-4bbb-abde-d9758c23f70e
+[I 14:33:30.398 NotebookApp] Kernel shutdown: 404b6d43-f7b6-4b8f-8965-7fe324c46c87
+[I 14:35:58.670 NotebookApp] Copying learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png.ipynb to /learningWithKaggle/sar/training_crops_20170829/Deployed Models
+[I 14:36:01.590 NotebookApp] Kernel started: a58922ec-f51f-49e5-98f2-53239e933be8
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[I 14:38:01.675 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.1-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[W 14:39:03.128 NotebookApp] Notebook learningWithKaggle/sar/experiments_crops_20170815/1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[I 14:39:04.866 NotebookApp] Kernel started: ef650920-dfc5-4c18-a4e8-adb0deb2caf5
+[I 14:40:01.618 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:40:16.584 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:42:02.561 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:42:35.268 NotebookApp] Kernel started: 637e39ca-9c14-453c-bac4-8c8cf38438bf
+[I 14:44:02.539 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:46:02.537 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:54:02.536 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:56:02.536 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:57:15.609 NotebookApp] Copying learningWithKaggle/sar/experiments_crops_20170815/utils.py to /learningWithKaggle/sar/experiments_crops_20170815
+[I 14:58:02.537 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 14:59:48.696 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/utils_diagnosis.py
+[I 15:00:03.334 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:01:17.580 NotebookApp] Kernel restarted: a58922ec-f51f-49e5-98f2-53239e933be8
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 15:01:59.604 NotebookApp] Kernel restarted: a58922ec-f51f-49e5-98f2-53239e933be8
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 15:02:03.325 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:04:03.351 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:06:03.351 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:08:03.353 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:10:03.353 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:12:03.443 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:14:03.372 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:16:03.378 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:22:03.379 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:24:03.379 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[I 15:26:03.379 NotebookApp] Saving file at /learningWithKaggle/sar/training_crops_20170829/Deployed Models/1.2-as_mph-Python3_FCN_50x50-png-diagnosis.ipynb
+[C 15:49:57.150 NotebookApp] received signal 15, stopping
+[I 15:49:57.151 NotebookApp] Shutting down kernels
+[I 15:49:57.255 NotebookApp] Kernel shutdown: aab4ace4-b199-44b9-a55f-d51394d2de32
+[I 15:49:57.255 NotebookApp] Kernel shutdown: 284958ba-e59d-4ad1-93a4-3f21be9a6e2f
+[I 15:49:57.255 NotebookApp] Kernel shutdown: ef650920-dfc5-4c18-a4e8-adb0deb2caf5
+[I 15:49:57.256 NotebookApp] Kernel shutdown: a58922ec-f51f-49e5-98f2-53239e933be8
+[I 15:49:57.256 NotebookApp] Kernel shutdown: 9dad08b7-442d-47ae-aa6d-b4d5ff32150a
+[I 15:49:57.256 NotebookApp] Kernel shutdown: 637e39ca-9c14-453c-bac4-8c8cf38438bf
